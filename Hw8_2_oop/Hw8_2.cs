@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Hw8_2_oop
+namespace Hw8_2_oop  
 {
     interface ILog
     {

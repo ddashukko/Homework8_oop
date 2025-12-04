@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Hw8_3_oop
+namespace Hw8_3_oop 
 {
     interface IShape
     {

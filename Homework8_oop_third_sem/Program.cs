@@ -55,4 +55,4 @@ namespace ConsoleApp
         public void ShowOrder(Order order) { }
     }
 }
-//тут було порушення Single Responsibility Principle (SRP)
+//тут було порушення Single Responsibility Principle (SRP) 

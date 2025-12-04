@@ -5,7 +5,7 @@ namespace Hw8_4_oop
 {
     interface IPricable
     {
-        void SetPrice(double price);
+        void SetPrice(double price); 
     }
 
     interface IDiscountable
